@@ -1,4 +1,4 @@
-# Codility Lessson Solutions for c++
+# Codility Lesson Solutions for c++
 
 ## Lessons
 
